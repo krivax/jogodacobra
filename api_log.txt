@@ -1,0 +1,1 @@
+[2025-05-12 21:50:01] SUCESSO | Jogador: kriva | Código: 1234 | Pontos: 10 | Vitória: True | Status HTTP: 201 | Resposta: {"_id":"68229582cee26d0c90116644","jogador":"kriva","jogo":"jogo da cobra","ponto":20,"codigo":"1234","createdAt":"2025-05-13T00:42:42.180Z","updatedAt":"2025-05-13T00:50:00.764Z","__v":0}
